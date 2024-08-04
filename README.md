@@ -5,5 +5,5 @@ O projeto proposto consiste num seguidor solar, que foi desenvolvido com o intui
 
 Este dispositivo visa aproveitar ainda mais a energia do sol, pois verificar a posição da fonte de luz com a ajuda de quatro sensores LDR e consequentemente através de dois servos motores, movimenta uma plataforma para se posicionar de forma a captar o máximo de luz possível.
 
-É possivel controlar o seguidor solar remotamente através de uma aplicação criada na plataforma MIT App Inventor https://appinventor.mit.edu/, que fornece uma interface para a conexão Bluetooth entre o seguidor solar e o telemóvel e botões de movimentação: cima, baixo, esquerda, direita.
+É possivel controlar o seguidor solar remotamente através de uma aplicação desenvolvida na plataforma [MIT App Inventor](https://appinventor.mit.edu/), que fornece uma interface para a conexão Bluetooth entre o seguidor solar e o telemóvel e botões de movimentação: cima, baixo, esquerda, direita.
 
