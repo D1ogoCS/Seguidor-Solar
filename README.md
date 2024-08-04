@@ -49,9 +49,15 @@ Para se conseguir utilizar a aplicação e efetuar os ajustes necessário no có
 
 *Esquema de ligação do projeto elaborado no TinkerCAD*
 
+### Resultados:
+![Código da proposta da aplicação](https://github.com/D1ogoCS/Seguidor-Solar/blob/main/imagens/codigoMobileApp.png)
 
+*Código da proposta da aplicação*
 
+![Proposta da interface da aplicação elaborada no MIT App Inventory](https://github.com/D1ogoCS/Seguidor-Solar/blob/main/imagens/mobileApp.jpg)
 
+*Proposta da interface da aplicação elaborada no MIT App Inventory*
 
+![Proposta da interface da aplicação elaborada no MIT App Inventory](https://github.com/D1ogoCS/Seguidor-Solar/blob/main/imagens/mobileApp2.jpg)
 
-
+*Proposta da interface da aplicação elaborada no MIT App Inventory*
