@@ -44,6 +44,11 @@ Para se conseguir utilizar a aplicação e efetuar os ajustes necessário no có
 - Jumpers ou fios
 - Peças em 3D ([Pan tilt head by eltitomanolo – Thingiverse](https://www.thingiverse.com/thing:2467743), consultado em 17/10/2023)
 
+###  Esquema de ligação:
+![Esquema de ligação do projeto elaborado no TinkerCAD](https://github.com/D1ogoCS/Seguidor-Solar/blob/main/imagens/esquemaLigacao.png)
+
+*Esquema de ligação do projeto elaborado no TinkerCAD*
+
 
 
 
