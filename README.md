@@ -7,5 +7,5 @@ Este dispositivo visa aproveitar ainda mais a energia do sol, pois verificar a p
 
 É possivel controlar o seguidor solar remotamente através de uma aplicação desenvolvida na plataforma [MIT App Inventor](https://appinventor.mit.edu/), que fornece uma interface para a conexão Bluetooth entre o seguidor solar e o telemóvel.
 
-**Nota:** Para se utilizar a aplicação é necessario fazer o download do ficheiro [seguidorSolarMobileApp.aia]([SeguidorSolar/seguidorSolarMobileApp.aia](https://github.com/D1ogoCS/Seguidor-Solar/raw/main/SeguidorSolar/seguidorSolarMobileApp.aia))
+**Nota:** Para se utilizar a aplicação é necessario fazer o download do ficheiro [seguidorSolarMobileApp.aia](https://github.com/D1ogoCS/Seguidor-Solar/raw/main/SeguidorSolar/seguidorSolarMobileApp.aia)
 
