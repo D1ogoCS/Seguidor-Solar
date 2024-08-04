@@ -38,7 +38,7 @@ Para se conseguir utilizar a aplicação e efetuar os ajustes necessário no có
 - 1 Modulo Bluetooth HC-05
 - 1 Protoboard
 - Jumpers ou fios
-- Peças em 3D [Pan tilt head by eltitomanolo – Thingiverse](https://www.thingiverse.com/thing:2467743), consultado em 17/10/2023
+- Peças em 3D ([Pan tilt head by eltitomanolo – Thingiverse](https://www.thingiverse.com/thing:2467743), consultado em 17/10/2023)
 
 
 
