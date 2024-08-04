@@ -5,6 +5,10 @@ O projeto proposto consiste num seguidor solar, que foi desenvolvido com o intui
 
 Este protótipo visa aproveitar ainda mais a energia do sol, pois verifica a posição da fonte de luz com a ajuda de quatro sensores LDR e consequentemente através de dois servos motores, movimenta uma plataforma para se posicionar de forma a captar o máximo de luz possível.
 
+Os resultados típicos para um LDR podem ser:
+- Escuridão: resistência máxima (valores lidos são mais baixos);
+- Luz muito brilhante: resistência mínima (valores lidos mais altos).
+
 É possivel controlar o seguidor solar remotamente através de uma aplicação desenvolvida na plataforma [MIT App Inventor](https://appinventor.mit.edu/), que fornece uma interface para a conexão Bluetooth entre o seguidor solar e um dispositivo Android.
 
 **Nota:** 
